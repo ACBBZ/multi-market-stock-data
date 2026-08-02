@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Market Stock Data"
+  short_description: "Fetch A-share, Hong Kong, and US stock quotes and history"
+  default_prompt: "Use $multi-market-stock-data to fetch and validate stock data across A-shares, Hong Kong stocks, and US equities."
